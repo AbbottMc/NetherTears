@@ -1,0 +1,13 @@
+{
+  "itemGroup.ntrs.general": "Nether Tears",
+  "block.netherreactor.wrongPattern": "Not the correct pattern!",
+  "block.netherreactor.active": "§eActive!",
+  "block.netherreactor.builtTooHigh": "The nether reactor needs to be built lower down.",
+  "block.netherreactor.builtTooLow": "The nether reactor needs to be built higher up.",
+  "block.netherreactor.playersTooFar": "All players need to be close to the reactor.",
+  "block.ntrs.nether_reactor_core": "Nether Reactor Core",
+  "block.ntrs.glowing_obsidian": "Glowing Obsidian",
+  "block.ntrs.nameless_debris": "Nameless Debris",
+  "item.ntrs.zombified_piglin_aggressive_spawn_egg": "Hostile Zombified Piglin Spawn Egg",
+  "entity.ntrs.zombified_piglin_aggressive": "Hostile Zombified Piglin"
+}

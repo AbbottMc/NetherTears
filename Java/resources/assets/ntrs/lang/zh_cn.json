@@ -1,0 +1,13 @@
+{
+  "itemGroup.ntrs.general": "下界遗泪",
+  "block.netherreactor.wrongPattern": "反应器结构错误！",
+  "block.netherreactor.active": "§e激活！",
+  "block.netherreactor.builtTooHigh": "需要将下界反应器构建得更低一些。",
+  "block.netherreactor.builtTooLow": "需要将下界反应器构建得更高一些。",
+  "block.netherreactor.playersTooFar": "所有玩家都需要靠近反应器。",
+  "block.ntrs.nether_reactor_core": "下界反应核",
+  "block.ntrs.glowing_obsidian": "发光的黑曜石",
+  "block.ntrs.nameless_debris": "无名残骸",
+  "item.ntrs.zombified_piglin_aggressive_spawn_egg": "敌对僵尸猪灵刷怪蛋",
+  "entity.ntrs.zombified_piglin_aggressive": "敌对僵尸猪灵"
+}

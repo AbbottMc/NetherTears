@@ -1,0 +1,19 @@
+pack.name=Nether Tears
+pack.description=How many years have passed? Maybe... no one remembers me anymore, at least... I once existed in this world. Right?
+
+tile.netherreactor.active=§eActive!
+
+tile.ntrs:nether_reactor_core.name=Nether Reactor Core	#
+tile.ntrs:glowing_obsidian.name=Glowing Obsidian	#
+tile.ntrs:nameless_debris.name=Nameless Debris	#
+item.spawn_egg.entity.ntrs:zombified_piglin_aggressive.name=Hostile Zombie Piglin Spawn Egg	#
+entity.ntrs:zombified_piglin_aggressive.name=Hostile Zombie Piglin	#
+
+tile.nrc:nether_reactor_core.name=Nether Reactor Core	#
+tile.glowingobsidian.name=Glowing Obsidian	#
+item.spawn_egg.entity.nrc:zombie_pigman_aggressive.name=Hostile Zombie Piglin Spawn Egg	#
+entity.nrc:zombie_pigman_aggressive.name=Hostile Zombie Piglin	#
+
+
+itemGroup.name.ntrs=Nether Tears
+itemGroup.name.reactor=Reactor

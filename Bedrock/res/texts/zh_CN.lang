@@ -1,0 +1,19 @@
+pack.name=下界遗泪
+pack.description=过去多少年了呢？或许...已经没人记得我了吧，至少......我还存在过。是这样的吧？
+
+tile.netherreactor.active=§e激活！
+tile.netherreactor.wrongPattern=反应器结构错误！	#
+
+tile.ntrs:nether_reactor_core.name=下界反应核	#
+tile.ntrs:glowing_obsidian.name=发光的黑曜石	#
+tile.ntrs:nameless_debris.name=无名残骸	#
+item.spawn_egg.entity.ntrs:zombified_piglin_aggressive.name=敌对僵尸猪灵刷怪蛋	#
+entity.ntrs:zombified_piglin_aggressive.name=敌对僵尸猪灵	#
+
+tile.nrc:nether_reactor_core.name=下界反应核	#
+tile.glowingobsidian.name=发光的黑曜石	#
+item.spawn_egg.entity.nrc:zombie_pigman_aggressive.name=敌对僵尸猪灵刷怪蛋	#
+entity.nrc:zombie_pigman_aggressive.name=敌对僵尸猪灵	#
+
+itemGroup.name.ntrs=下界遗泪
+itemGroup.name.reactor=反应核
